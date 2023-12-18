@@ -1,0 +1,26 @@
+<annotation>
+	<folder>perfect</folder>
+	<filename>perfect.fa4314b6-7177-11ee-a570-d0817a9e9b86.jpg</filename>
+	<path>/Users/nazmussakib/Documents/Stuffs/Prog Stuffs/Jupyter Notebooks/hand gestures project/images/perfect/perfect.fa4314b6-7177-11ee-a570-d0817a9e9b86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>perfect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>53</ymin>
+			<xmax>847</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>

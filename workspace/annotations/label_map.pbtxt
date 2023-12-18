@@ -1,0 +1,20 @@
+item { 
+	name:'good'
+	id:1
+}
+item { 
+	name:'bad'
+	id:2
+}
+item { 
+	name:'perfect'
+	id:3
+}
+item { 
+	name:'stop'
+	id:4
+}
+item { 
+	name:'zero'
+	id:5
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zero</folder>
+	<filename>zero.5823947a-7178-11ee-a570-d0817a9e9b86.jpg</filename>
+	<path>/Users/nazmussakib/Documents/Stuffs/Prog Stuffs/Jupyter Notebooks/hand gestures project/images/zero/zero.5823947a-7178-11ee-a570-d0817a9e9b86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>461</xmin>
+			<ymin>86</ymin>
+			<xmax>695</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+</annotation>
